@@ -1,6 +1,6 @@
 # 🧮 React Calculator App
 
-![Figma Design](./Figma Design.png)
+![Figma Design](./Figma-Design.png)
 
 A simple calculator built with **React.js** and **CSS**, supporting basic arithmetic operations: addition, subtraction, multiplication, and division.
 
